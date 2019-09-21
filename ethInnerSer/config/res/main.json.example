@@ -1,0 +1,11 @@
+{
+    "env": "dev" ,
+    "ethnet": "https://ropsten.infura.io/mew" ,
+    "querynet": "https://ropsten.etherscan.io" ,
+    "walletPwd": "egretia_wallet_Q1*6" ,
+    "sessionPwd": "egretia_session_180622",
+    "httpProxy": "http://127.0.0.1:1087",
+    "webUrl":"http://localhost:3001",
+    "logPath": "/Users/lx/Downloads",
+    "listenPort": 3005,
+}

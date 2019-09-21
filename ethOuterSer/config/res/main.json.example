@@ -1,0 +1,18 @@
+{
+    "env": "dev" ,
+    "ethnet": "https://ropsten.infura.io/mew" ,
+    "querynet": "https://ropsten.etherscan.io" ,
+    "walletPwd": "egretia_wallet_Q1*6" ,
+    "sessionPwd": "egretia_session_180622",
+    "httpProxy": "http://127.0.0.1:1087",
+    "webUrl":"http://localhost:3001",
+    "tokenAddr":"0x9fe477599ec6be39554d517ee8b530464257c067",
+    "logPath": "/Users/lx/Downloads",
+    "listenPort": 3005,
+    "withdrawAddr":"0xa89fcd5403f2a7369094ebda31a1853eb3f2d519",
+    "collectAddr":"0x9abf066c016fef22fbca1a87aeff18ed625a0811",
+    "collectCallback":"http://api.local.yipu.io/public/collectegtnotify",
+
+    "aoaEthnet": "https://mainnet.infura.io/mew" ,
+    "aoaTokenAddr":"0x9ab165d795019b6d8b3e971dda91071421305e5a"
+}

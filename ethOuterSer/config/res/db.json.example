@@ -1,0 +1,7 @@
+{
+    "host":"10.0.2.195",
+    "user":"root",
+    "password":"system",
+    "database":"egretia",
+    "charset":"utf8mb4_general_ci"
+}
